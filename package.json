@@ -202,5 +202,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "emsin kalkulaattori"
+  "description": "emsin kalkulaattori",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmaKingDev/basicJestTests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EmmaKingDev/basicJestTests/issues"
+  },
+  "homepage": "https://github.com/EmmaKingDev/basicJestTests#readme"
 }
